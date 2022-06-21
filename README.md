@@ -1,7 +1,7 @@
 # Incometaxdeduction-Not-100-
 A Personal Calculator I use for net-worth pay. (Not %100 Accurate)
 
-# This is not own by any form om company, has no license. This is for my own personal use.
+# This is not own by any form of company, has no license. This is for my own personal use.
 This is a Completely Freelance script I have made by myself, for myself, but Figured others might like another estimate 🏛️ before waiting bi-weekly/monthly.
 
 # This is Not International!

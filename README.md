@@ -13,12 +13,13 @@ This is an Estimate amount, It does not Find the Exact percentage off.
 # This Does not Include Additonal taxes!
 This only Does Income tax, It does not ask for any form of RRSP, RESP, Etc.
 
-
+# Revisited now has Statutory holidays!
+Just havent imlpeted Tax deduction to it yet.
 
 # Known issues
-You will have to hit 1 Twice, and 3 Three times.
+You will have to hit 2 Twice, and 3 Three times.
 
-You will have to do Statutory holidays seperatly.
+
 
 HOURS MUST BE ROUNDED UP OR DOWN.
 
